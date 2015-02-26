@@ -1,0 +1,19 @@
+{
+  "name": "jquery-clipchamp-mjpeg-player-plugin",
+  "version": "0.0.1",
+  "description": "MJPEG player for motion JPEG files as created by the clipchamp.com video converter, video compressor and webcam recorder",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:clipchamp/jquery-clipchamp-mjpeg-player-plugin.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "zfaas Pty Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clipchamp/jquery-clipchamp-mjpeg-player-plugin/issues"
+  },
+  "homepage": "https://github.com/clipchamp/jquery-clipchamp-mjpeg-player-plugin"
+}
