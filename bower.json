@@ -1,12 +1,14 @@
 {
   "name": "jquery.clipchamp.mjpeg.player",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/clipchamp/jquery-clipchamp-mjpeg-player-plugin",
   "authors": [
     "Sören Balko <Soeren.Balko@gmail.com>"
   ],
   "description": "Simple MJPEG player from clipchamp.com video converter and webcam recorder",
-  "main": ["./src/"],
+  "main": [
+    "./src/jquert.clipchamp.mjpeg.player.js"
+  ],
   "keywords": [
     "MJPEG",
     "motion",
